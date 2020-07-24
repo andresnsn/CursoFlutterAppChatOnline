@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "234793109020",
+    "firebase_url": "https://chatflutter-ce18f.firebaseio.com",
+    "project_id": "chatflutter-ce18f",
+    "storage_bucket": "chatflutter-ce18f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234793109020:android:6779d58895ad06f233c1d9",
+        "android_client_info": {
+          "package_name": "br.com.ciolfi.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234793109020-v75ssko32cpcec4glaht7o83hj2lie7a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.ciolfi.chat",
+            "certificate_hash": "17cd7b4e46fd780a83f2d95e1c8f8a4b172b1e26"
+          }
+        },
+        {
+          "client_id": "234793109020-9bvaj5q52utqmfq4681gg7dfu8392pik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdd85YA7PchwD02HFXZsklGZBdvMSpRVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234793109020-9bvaj5q52utqmfq4681gg7dfu8392pik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234793109020:android:a6ad7ba5ec107e5533c1d9",
+        "android_client_info": {
+          "package_name": "sinka.com.br.chatonlineapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234793109020-aeeosoqtpkgpfa7ngdq3k9kniv5euinl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sinka.com.br.chatonlineapp",
+            "certificate_hash": "17cd7b4e46fd780a83f2d95e1c8f8a4b172b1e26"
+          }
+        },
+        {
+          "client_id": "234793109020-9bvaj5q52utqmfq4681gg7dfu8392pik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdd85YA7PchwD02HFXZsklGZBdvMSpRVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234793109020-9bvaj5q52utqmfq4681gg7dfu8392pik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
